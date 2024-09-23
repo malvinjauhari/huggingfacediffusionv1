@@ -1,40 +1,57 @@
-# Hugging Face Diffusion 
+# Hugging Face Diffusion
 
-**Hugging Face Diffusion** adalah serangkaian alat yang membantu Anda mengembangkan dan menghasilkan gambar menggunakan model **Stable Diffusion**. Proyek ini dirancang untuk mempermudah seniman, pengembang, dan peneliti dalam menghasilkan gambar berkualitas tinggi, baik dari input teks maupun modifikasi gambar yang sudah ada. Perbedaan utama dari versi Stable Diffusion lainnya adalah bahwa versi ini di-host di Google Colab melalui integrasi Hugging Face, yang membuatnya lebih mudah diakses dan digunakan tanpa perlu setup lokal yang rumit.
-
----
-
-## 🚀 Fitur Utama
-
-- **Optimasi Penggunaan GPU**: Memaksimalkan efisiensi komputasi untuk pemrosesan gambar yang lebih cepat.
-- **Custom Prompt Builder**: Buat prompt yang unik dan kompleks dengan mudah untuk menghasilkan gambar sesuai imajinasi Anda.
-- **Multi-Output Variants**: Hasilkan beberapa variasi dari satu input untuk eksplorasi kreativitas yang lebih luas.
-- **Pengaturan Resolusi Dinamis**: Pilih resolusi sesuai kebutuhan, mulai dari thumbnail kecil hingga gambar besar untuk cetakan.
-- **Ekspor ke Berbagai Format**: Simpan hasil gambar dalam format **PNG**, **JPG**, atau bahkan **SVG**.
-- **Integrasi Plugin**: Mendukung plugin eksternal untuk memperluas fungsionalitas dan integrasi dengan alat lain.
+**Hugging Face Diffusion** is a set of tools designed to assist in generating images using the **Stable Diffusion** model. This project simplifies the process for artists, developers, and researchers to produce high-quality images from text prompts or modify existing images. What sets this version apart is its hosting on **Google Colab** via **Hugging Face** integration, making it more accessible without needing complex local setups.
 
 ---
 
-## 📚 Dokumentasi
+## 🚀 Key Features
 
-Dokumentasi lengkap dan panduan penggunaan tersedia [di sini](#). Panduan ini mencakup segala hal mulai dari instalasi hingga penggunaan fitur-fitur canggih.
+- **Optimized GPU Usage**: Efficiently uses computational resources for faster and more optimized image generation.
+- **Custom Prompt Builder**: Create complex and unique prompts easily to generate images according to your creativity.
+- **Dynamic Resolution Settings**: Choose the appropriate resolution for your needs, from small thumbnails to large-scale prints.
 
 ---
 
-## 🛠 Instalasi
+## 📚 Documentation
 
-### Prasyarat
+Complete documentation and user guides are available [here](#). The guides cover everything from installation to advanced feature usage.
 
-Pastikan sistem Anda telah memiliki hal-hal berikut sebelum memulai instalasi:
+---
 
-- **Python** >= 3.8
-- **torch** dan **torchvision** (untuk pemrosesan gambar dan model AI)
-- **CUDA Toolkit** (untuk akselerasi GPU, jika tersedia)
-- **Git**
+## 🛠 Installation
 
-### Langkah Instalasi
+### Prerequisites
 
-1. Buka Link ini:
-   [Google Colab](https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing)
-2. Jalankan semua Perintahnya
-3. Selesai !, 
+Before running this project, ensure that you have the following:
+
+- A working Google Colab account
+- Internet access to use Hugging Face models
+
+### Installation Steps
+
+1. Open this link to access the **Google Colab** notebook:
+   [Google Colab - Hugging Face Diffusion](https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing)
+   
+2. Follow the instructions within the Colab notebook.
+   
+3. Execute all the cells in the notebook, and your environment will be set up automatically.
+
+4. You're ready to start generating images with **Hugging Face Diffusion**!
+
+---
+
+## 🧑‍💻 Contributing
+
+We welcome contributions from the community! Feel free to submit issues or pull requests to help improve this project.
+
+---
+
+## 🔖 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact
+
+For further inquiries, you can reach out via [email](mailto:your-email@example.com) or visit the project repository on [GitHub](https://github.com/your-username/hugging-face-diffusion).
