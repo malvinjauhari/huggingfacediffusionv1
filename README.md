@@ -35,6 +35,6 @@ Pastikan sistem Anda telah memiliki hal-hal berikut sebelum memulai instalasi:
 ### Langkah Instalasi
 
 1. Buka Link ini:
-   [Google Colab](**https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing**)
+   [Google Colab](https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing)
 2. Jalankan semua Perintahnya
 3. Selesai !, 
