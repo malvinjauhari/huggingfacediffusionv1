@@ -31,3 +31,4 @@ Pastikan Anda memiliki prasyarat berikut di sistem Anda:
 - Git
 
 ### Langkah Instalasi
+- Open This ([https://img.shields.io/github/contributors/malvinjauhari/huggingfacediffusionv](https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing)1)
