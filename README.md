@@ -1,34 +1,40 @@
-Hugging Face Diffusion Adalah adalah serangkaian alat yang membantu Anda mengembangkan gambar menggunakan model Stable Diffusion. Proyek ini dirancang untuk mempermudah para seniman, pengembang, dan peneliti dalam menghasilkan gambar berkualitas tinggi dari teks atau gambar yang dimodifikasi. Hugging face sama saja dengan versi stable diffusion, perbedaanya versi hugging face ini berada di google c
+# Hugging Face Diffusion 
 
-# Stable Diffusion Tools
+**Hugging Face Diffusion** adalah serangkaian alat yang membantu Anda mengembangkan dan menghasilkan gambar menggunakan model **Stable Diffusion**. Proyek ini dirancang untuk mempermudah seniman, pengembang, dan peneliti dalam menghasilkan gambar berkualitas tinggi, baik dari input teks maupun modifikasi gambar yang sudah ada. Perbedaan utama dari versi Stable Diffusion lainnya adalah bahwa versi ini di-host di Google Colab melalui integrasi Hugging Face, yang membuatnya lebih mudah diakses dan digunakan tanpa perlu setup lokal yang rumit.
 
-![License](https://img.shields.io/github/license/malvinjauhari/huggingfacediffusionv1)
-![Version](https://img.shields.io/github/v/release/malvinjauhari/huggingfacediffusionv1)
-![Contributors](https://img.shields.io/github/contributors/malvinjauhari/huggingfacediffusionv1)
+---
 
-## 🚀 Fitur
+## 🚀 Fitur Utama
 
-- **Optimasi Penggunaan GPU**: Memaksimalkan penggunaan sumber daya komputasi untuk hasil yang lebih cepat dan lebih efisien.
-- **Custom Prompt Builder**: Buat prompt yang kompleks dan unik dengan mudah untuk menghasilkan gambar sesuai keinginan.
-- **Multi-Output Variants**: Hasilkan beberapa variasi dari satu input untuk eksplorasi kreatif yang lebih luas.
-- **Pengaturan Resolusi Dinamis**: Pilih resolusi sesuai kebutuhan dari thumbnail hingga cetakan besar.
-- **Eksport ke Berbagai Format**: Simpan gambar dalam format PNG, JPG, atau format vektor (SVG) dengan mudah.
-- **Integrasi Plugin**: Dukungan untuk plugin eksternal yang memungkinkan integrasi dan ekspansi fungsionalitas dengan modul lain.
+- **Optimasi Penggunaan GPU**: Memaksimalkan efisiensi komputasi untuk pemrosesan gambar yang lebih cepat.
+- **Custom Prompt Builder**: Buat prompt yang unik dan kompleks dengan mudah untuk menghasilkan gambar sesuai imajinasi Anda.
+- **Multi-Output Variants**: Hasilkan beberapa variasi dari satu input untuk eksplorasi kreativitas yang lebih luas.
+- **Pengaturan Resolusi Dinamis**: Pilih resolusi sesuai kebutuhan, mulai dari thumbnail kecil hingga gambar besar untuk cetakan.
+- **Ekspor ke Berbagai Format**: Simpan hasil gambar dalam format **PNG**, **JPG**, atau bahkan **SVG**.
+- **Integrasi Plugin**: Mendukung plugin eksternal untuk memperluas fungsionalitas dan integrasi dengan alat lain.
+
+---
 
 ## 📚 Dokumentasi
 
-Dokumentasi lengkap dan panduan penggunaan dapat ditemukan di [Dokumentasi Online](https://github.com/username/repo/wiki). Anda dapat memulai dengan panduan instalasi di bawah ini.
+Dokumentasi lengkap dan panduan penggunaan tersedia [di sini](#). Panduan ini mencakup segala hal mulai dari instalasi hingga penggunaan fitur-fitur canggih.
+
+---
 
 ## 🛠 Instalasi
 
 ### Prasyarat
 
-Pastikan Anda memiliki prasyarat berikut di sistem Anda:
+Pastikan sistem Anda telah memiliki hal-hal berikut sebelum memulai instalasi:
 
-- Python >= 3.8
-- `torch` dan `torchvision` (untuk pemrosesan gambar dan model AI)
-- CUDA Toolkit (jika menggunakan GPU)
-- Git
+- **Python** >= 3.8
+- **torch** dan **torchvision** (untuk pemrosesan gambar dan model AI)
+- **CUDA Toolkit** (untuk akselerasi GPU, jika tersedia)
+- **Git**
 
 ### Langkah Instalasi
-- Open This ([https://img.shields.io/github/contributors/malvinjauhari/huggingfacediffusionv](https://colab.research.google.com/drive/1hQkPxc0TWrIrO6GKPw9-C2VtY0NT0bh_?usp=sharing)1)
+
+1. Buka Link ini:
+   [Google Colab](#)
+2. Jalankan semua Perintahnya
+3. Selesai !, 
